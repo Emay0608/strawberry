@@ -1,8 +1,12 @@
 
-h1{color:rgb(255, 154, 221);}
+#product-overview {
+    color:rgb(255, 154, 221);
+    font-family: 'Comforter Brush'; sans-serif;
+}
 
-h2{color:deeppink}
 
 body{
     background: #c9f0f7
 }
+
+  
