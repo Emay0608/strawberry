@@ -1,7 +1,14 @@
 
 #product-overview {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
     color:rgb(255, 154, 221);
     font-family: 'Comforter Brush'; sans-serif;
+    <h1> I love to eat strawberries!</h1>
 }
 
 
@@ -11,3 +18,5 @@
 #ellan-image{
     width:80%;
 }
+
+
